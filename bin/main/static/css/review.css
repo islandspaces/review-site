@@ -1,0 +1,20 @@
+
+.review-container h4 {
+margin-top: 40px;
+}
+
+.review-container{
+
+}
+.reviews-container li {
+list-style: none;
+}
+
+.reviews-container h1{
+margin-top: 40px;
+}
+
+#description{
+text-align: justify;
+font-family: open sans;
+}
